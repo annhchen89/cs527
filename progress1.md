@@ -1,23 +1,17 @@
-### Progress
+### Progress Report 1 - Fixing Test from Idoft
+
 ___
 
 __Yong Han Lin (yonghan5)__
 - Fixed 6 tests and submitted 2 pull requests (both are pending now)
 
 __Ann Chen (hueic2)__
-
-- I submitted 1 pull requests (1 rejected)
+- I submitted 3 pull requests (1 rejected, 2 pending)
+  
 ### Effort and Challenges
 ___
 __Yong Han Lin (yonghan5)__
-- I created 2 pull requests toward EsotericSoftware/kryo by potentially fixing 6 tests, I was lucky that one fix can solve 2 tests, and another can solve 4 tests.
+- I created 2 pull requests toward ```EsotericSoftware/kryo``` by potentially fixing 6 tests, I was lucky that one fix can solve 2 tests, and another can solve 4 tests.
 
 __Ann Chen (hueic2)__
-- I created 1 pull requests toward google/guava, but the developer didn't was ok with the non deterministic for Hashset, so it got rejected and is marked as DeveloperWontFix in IDOFT. 
-
-
-#### Progress Report Instructions
-Project progress report due dates are on the Home page. For each progress N, create a file progressN.md (progress1.md, progress2.md, …) in your GitLab repo with your progress summary.
-Describe your cumulative progress since the start of the project, e.g., “I submitted N pull requests (A already accepted, R rejected, P pending)”
-Include how many “points” you think you have earned so far and why based on the number of PRs you created, the number of tests you detected, etc. If you have not made good progress (9 “points” per student per week), document your effort and challenges.
-Please DO NOT add images to your report (but can add links).
+- I created 1 pull requests toward ```google/guava```, but the developer rejected it because FULL mode that reorders the same collection twice is not interesting to them, so I marked it as DeveloperWontFix in IDOFT. I also created 2 PRs in ```apache/accumulo```, which is currently pending. 
