@@ -14,4 +14,9 @@ __Yong Han Lin (yonghan5)__
 - I created 2 pull requests toward ```EsotericSoftware/kryo``` by potentially fixing six tests. I was fortunate that one fix resolved two tests and another resolved four. Based on the grading, I think I could earn 18 points if I opened real PRs for all six tests, since points are given per test status.
 
 __Ann Chen (hueic2)__
-- I created 1 pull requests toward ```google/guava```, but the developer rejected it because FULL mode that reorders the same collection twice is not interesting to them, so I marked it as DeveloperWontFix in IDOFT. I also created 2 PRs in ```apache/accumulo```, which is currently pending. 
+- I created 1 pull requests toward ```google/guava```, but the developer rejected it because FULL mode that reorders the same collection twice is not interesting to them, so I marked it as DeveloperWontFix in IDOFT. I also created 2 PRs in ```apache/accumulo```, which is currently pending. I didn't reach the goal points for the week since 1 of the pull request got closed. 
+- Point I think I earned?:
+  - opened 3: 9 points
+  - rejected 1: -2 points
+  - developerWontFix 1: 0.33 points
+  - Total: 7.33 points
