@@ -2,7 +2,7 @@
 ___
 
 __Yong Han Lin (yonghan5)__
-- I submitted N pull requests (A already accepted, R rejected, P pending)
+- Fixed 6 tests and submitted 2 pull requests (both are pending now)
 
 __Ann Chen (hueic2)__
 
@@ -10,7 +10,7 @@ __Ann Chen (hueic2)__
 ### Effort and Challenges
 ___
 __Yong Han Lin (yonghan5)__
-- abcdefghijklmnop
+- I created 2 pull requests toward EsotericSoftware/kryo by potentially fixing 6 tests, I was lucky that one fix can solve 2 tests, and another can solve 4 tests.
 
 __Ann Chen (hueic2)__
 - I created 1 pull requests toward google/guava, but the developer didn't was ok with the non deterministic for Hashset, so it got rejected and is marked as DeveloperWontFix in IDOFT. 
