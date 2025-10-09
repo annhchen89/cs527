@@ -13,3 +13,8 @@ ___
   - rejected X: x points
   - developerWontFix X: x points
   - Total: x.xx points
+
+
+tobedeleted:
+- fixed 2 more test(no extra PRs)
+- the developer at ```apache/accumulo``` replied and also asked to also fix the testBulkFileCheck(), the fix was similar for testDataFileCheck(), also since testDataFileCheck() and testScanFileCheck() uses the same function, testScanFileCheck() is also fixed. 
