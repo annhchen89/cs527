@@ -2,7 +2,7 @@
 Team members: __Yong Han Lin (yonghan5)__, __Ann Chen (hueic2)__
 ___
 
-**We submitted 4 pull requests (2 accepted, 1 rejected, 1 pending), in total fixed 12 tests.**
+**We submitted 5 pull requests (3 accepted, 1 rejected, 1 pending), in total fixed 11 tests.**
 
 ### Effort and Challenges
 ___
