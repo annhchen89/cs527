@@ -2,11 +2,13 @@
 Team members: __Yong Han Lin (yonghan5)__, __Ann Chen (hueic2)__
 ___
 
-**We submitted 6 pull requests (3 accepted, 1 rejected, 2 pending), in total fixed 13 tests.**
+**We submitted 6 pull requests (4 accepted, 1 rejected, 1 pending), in total fixed 13 tests.**
 
 ### Effort and Challenges
 ___
-- Ran NonDex on all modules in ```EsotericSoftware/kryo```, identified two additional failing tests, implemented fixes, and created a PR addressing those test failures.
+- Ran NonDex on all modules in ```EsotericSoftware/kryo```, identified two additional failing tests, implemented fixes, and created a PR addressing those test failures, and it is accepted. 
+- Ran NonDex on all modules in ```Google/error-prone```, no other test were found.
+- Ran NonDex on modules in ```apache/accumulo``, identified two additional failing tests. 
 
 - Worked on ```xxx```
   - for the ```xxx```
@@ -14,9 +16,9 @@ ___
 ---
 ### Points
 - Point we think we earned:
-  - Opened 1: 9 points
-  - Accepted 9: 45 points
+  - Opened 1: 3 points
+  - Accepted 11: 55 points
   - Rejected 1: -2 points
   - DeveloperFixed 1: 2 points
   - DeveloperWontFix 1: 0.33 points
-  - Total: 57.33 points
+  - Total: 58.33 points
