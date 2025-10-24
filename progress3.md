@@ -2,7 +2,7 @@
 Team members: __Yong Han Lin (yonghan5)__, __Ann Chen (hueic2)__
 ___
 
-**We submitted 10 pull requests (4 accepted, 1 rejected, 5 pending), in total fixed 17 tests.**
+**We submitted 12 pull requests (4 accepted, 1 rejected, 7 pending), in total fixed 19 tests.**
 
 ### Effort and Challenges
 ___
@@ -11,17 +11,14 @@ ___
 - Ran NonDex on all modules in ```Google/error-prone```; no additional nondeterministic tests were detected.  
 - Ran NonDex on modules in ```apache/accumulo```, uncovering 3 additional failing tests.  
 - Implemented fixes for 2 of the failing tests in ```apache/accumulo``` and submitted two corresponding PRs to the repository.
-
-
-
-- Worked on ```INRIA/spoon``` and ```MyCATApache/Mycat-Server```, fixed two tests and open two PR in total.
+- Worked on ```INRIA/spoon``` and ```MyCATApache/Mycat-Server```, fixed four tests and open four PRs in total for these two repos.
 
 ---
 ### Points
 - Point we think we earned:
-  - Opened 5: 15 points
+  - Opened 5: 21 points
   - Accepted 11: 55 points
   - Rejected 1: -2 points
   - DeveloperFixed 2: 4 points
   - DeveloperWontFix 1: 0.33 points
-  - Total: 72.33 points
+  - Total: 78.33 points
