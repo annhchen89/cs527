@@ -6,7 +6,8 @@ ___
 
 ### Effort and Challenges
 ___
-- Ran NonDex across all modules in 
+- Ran Nondex on ```apache/shenyu``` and discovered X tests
+- Worked on fixing the 5 of the test within ```apache/shenyu``` caused by Json and create a PR for the change. 
 - Worked on
 
 ---
