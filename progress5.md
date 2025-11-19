@@ -2,18 +2,18 @@
 Team members: __Yong Han Lin (yonghan5)__, __Ann Chen (hueic2)__
 ___
 
-**We submitted 19 pull requests (7 accepted, 1 rejected, 11 pending), in total fixed 33 tests.**
+**We submitted 19 pull requests (8 accepted, 1 rejected, 10 pending), in total fixed 33 tests.**
 
 ### Effort and Challenges
 ___
 - Ran 
-- Worked on the remaining four tests in apache/shenyu, all of which were related to JSON order. Fixed all of them and opened a pull request.
+- Worked on the remaining four tests in apache/shenyu, all of which were related to JSON order. Fixed all of them, opened a pull request, and the pull request was accepted.
 ---
 ### Points
 - Point we think we earned:
-  - Opened 19: 57 points
-  - Accepted 13: 65 points
+  - Opened 15: 45 points
+  - Accepted 17: 85 points
   - Rejected 1: -2 points
   - DeveloperFixed 2: 4 points
   - DeveloperWontFix 1: 0.33 points
-  - Total: 124.33 points
+  - Total: 132.33 points
