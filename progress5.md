@@ -2,7 +2,7 @@
 Team members: __Yong Han Lin (yonghan5)__, __Ann Chen (hueic2)__
 ___
 
-**In total we fixed 33 tests (23 accepted, 1 rejected, 9 pending)**
+**In total we fixed 35 tests (23 accepted, 1 rejected, 11 pending)**
 
 ### Effort and Challenges
 ___
@@ -12,9 +12,9 @@ ___
 ---
 ### Points
 - Point we think we earned:
-  - Opened 9: 27 points
+  - Opened 11: 33 points
   - Accepted 23: 115 points
   - Rejected 1: -2 points
   - DeveloperFixed 2: 4 points
   - DeveloperWontFix 1: 0.33 points
-  - Total: 144.33 points
+  - Total: 150.33 points
