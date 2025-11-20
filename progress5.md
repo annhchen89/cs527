@@ -2,7 +2,7 @@
 Team members: __Yong Han Lin (yonghan5)__, __Ann Chen (hueic2)__
 ___
 
-**We submitted 19 pull requests (8 accepted, 1 rejected, 10 pending), in total fixed 33 tests.**
+**In total we fixed 33 tests (22 accepted, 1 rejected, 10 pending)**
 
 ### Effort and Challenges
 ___
@@ -11,9 +11,9 @@ ___
 ---
 ### Points
 - Point we think we earned:
-  - Opened 15: 45 points
-  - Accepted 17: 85 points
+  - Opened 10: 30 points
+  - Accepted 22: 110 points
   - Rejected 1: -2 points
   - DeveloperFixed 2: 4 points
   - DeveloperWontFix 1: 0.33 points
-  - Total: 132.33 points
+  - Total: 142.33 points
