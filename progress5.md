@@ -6,8 +6,8 @@ ___
 
 ### Effort and Challenges
 ___
-- Ran
-- Worked on the remaining four ID tests in apache/shenyu, all of which were related to JSON order. Fixed all of them, opened a pull request, and the pull request was accepted.
+- Ran iDFlakies to identify OD test in ```apache/shenyu```, and discovered 8 OD test. 
+- Worked on the remaining four ID tests in ```apache/shenyu```, all of which were related to JSON order. Fixed all of them, opened a pull request, and the pull request was accepted.
 - Worked on two ID tests in primefaces/primefaces. One failed due to JSON ordering, and the other due to the use of getDeclaredFields(). Have opened two pull requests for these two tests.
 ---
 ### Points
