@@ -2,7 +2,7 @@
 Team members: __Yong Han Lin (yonghan5)__, __Ann Chen (hueic2)__
 ___
 
-**In total we fixed 38 tests (27 accepted, 1 rejected, 11 pending)**
+**In total we fixed 38 tests (27 accepted, 2 rejected, 10 pending)**
 
 ### Effort and Challenges
 ___
@@ -12,11 +12,12 @@ ___
 - Worked on the remaining four ID tests in ```apache/shenyu```, all of which were related to JSON order. Fixed all of them, opened a pull request, and the pull request was accepted.
 - Worked on two ID tests in `primefaces/primefaces`. One failed due to JSON ordering, and the other due to the use of getDeclaredFields(). Have opened two pull requests for these two tests.
 - Worked on X ID test in `apache/streampipes` and created PRs for the tests, 1 was accepted.
+- Got rejected for `apache/accumulo`
 ---
 ### Points
 - Point we think we earned:
-  - Opened 11: 33 points
+  - Opened 10: 30 points
   - Accepted 27: 135 points
-  - Rejected 1: -2 points
+  - Rejected 2: -4 points
   - DeveloperFixed 2: 4 points
-  - Total: 170 points
+  - Total: 165 points
