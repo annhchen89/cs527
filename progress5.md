@@ -11,8 +11,9 @@ ___
 - Found another ID test in `apache/shenyu`, fixed and PR created, then pr was accepted.
 - Worked on the remaining four ID tests in ```apache/shenyu```, all of which were related to JSON order. Fixed all of them, opened a pull request, and the pull request was accepted.
 - Worked on two ID tests in `primefaces/primefaces`. One failed due to JSON ordering, and the other due to the use of getFields(). Have opened one pull requests to see if it was acceptable for the repo maintaniers but got rejected.
-- Worked on X ID test in `apache/streampipes` and created PRs for the tests, 1 was accepted.
-- Got rejected for `apache/accumulo`
+- Worked on 3 ID test in `apache/streampipes` and created PRs for the tests, 1 was accepted.
+- Got rejected for one of `apache/accumulo`.
+
 ---
 ### Points
 - Point we think we earned:
