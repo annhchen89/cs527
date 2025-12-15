@@ -6,8 +6,21 @@ ___
 
 ### Effort and Challenges
 ___
-- 
-
+- apache/shenyu:
+- apache/streampipes:
+- EsotericSoftware:
+- OpenAPITools/openapi-generator:
+- immutables/immutables:
+- awspring/spring-cloud-aws:
+- google/error-prone:
+- apache/accumulo:
+- INRIA/spoon:
+- primefaces/primefaces:
+- quarkusio/quarkus:
+- INRIA/spoon:
+- google/guava:
+- MyCATApache/Mycat-Server:
+- google/gson:
 ---
 ### Points
 - Point we think we earned:
