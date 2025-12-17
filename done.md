@@ -2,20 +2,20 @@
 Team members: __Yong Han Lin (yonghan5)__, __Ann Chen (hueic2)__
 ___
 ### Effort and Challenges
-During the semester, we worked on 15 repositories. In total, we fixed 63 tests (40 accepted, 3 rejected, 17 pending, 1 inspired a fix, and 2 were fixed by developers), and we ran NonDex on all modules across all repositories to find ID tests that were not already listed in pr-data.csv:
-- apache/shenyu: In this repo, we fixed ten ID tests and three OD tests.
+During the semester, we worked on 15 repositories. In total, we fixed 63 tests (40 accepted, 3 rejected, 17 pending, 1 inspired a fix, and 2 were fixed by developers), and we ran NonDex on all modules across all repositories to find ID tests that were not already listed in pr-data.csv, we ran iDFlakes in several repos to try to find OD tests, but a lot of them were not able to run due to junit version:
+- apache/shenyu: In this repo, we were able to run iDFlakes and discovered 8 OD tests, we were able to fix 10 ID tests and 3 OD tests.
 - apache/streampipes: We fixed nine ID tests in this repo. Five were accepted, but the remaining four are still open PRs.
-- EsotericSoftware/kryo: We fixed seven ID tests, and all were accepted.
-- OpenAPITools/openapi-generator: We fixed five ID tests in this repo, and all PRs were accepted. 
+- esotericSoftware/kryo: We fixed seven ID tests, and all were accepted.
+- openAPITools/openapi-generator: We fixed five ID tests in this repo, and all PRs were accepted. 
 - immutables/immutables: We fixed four ID tests in this repo caused by JSON and HashSet ordering, and all PRs were accepted.
 - awspring/spring-cloud-aws: We fixed five ID tests in this repo and opened PRs, but the maintainers have not reviewed them yet.
-- google/error-prone:
-- apache/accumulo: 
+- google/error-prone: There were 1 ID test from the csv file, but after running nondex, we discovered it was fixed already, so we found/reported the commit where it was fixed. 
+- apache/accumulo: We fixed 6 ID test, 3 were accepted, 1 inspired a fix, 1 rejected, and 1 remains open for now. 
 - INRIA/spoon: We fixed seven tests in this repo: two were accepted, and five are still open. For the open PRs, the maintainers discussed the issue in one case but did not reach a conclusion. In another PR, a maintainer asked questions about my changes but did not follow up. Since they suggested opening one PR at a time, I added “review” to the titles of two PRs and waited for their response, but the comments in both PRs remain unresolved, which has left the remaining PRs open.
 - primefaces/primefaces: This repo had two ID tests when we first worked on it. We fixed them and opened a PR for one of the tests. However, the maintainer did not believe the failure was flaky, so we did not open a second PR.
-- quarkusio/quarkus:
-- google/guava: 
-- MyCATApache/Mycat-Server: This repo is unmaintained (the last commit was two years ago), although we did open a PR.
+- quarkusio/quarkus: Also same with this repo, developer have already fixed it so we looked for the fixed commit. 
+- google/guava: We created the PR for the ID test, however it was rejected by the maintainer, as they are not interested in fixing test that passes "ONE" mode but not "FULL" mode.  
+- MyCATApache/Mycat-Server: This repo is unmaintained (the last commit was two years ago), we did open a PR, and also reported another founded ID test as unmaintained.
 - google/gson: Although this repo was assigned to us, we did not work on it because the previously identified ID tests in pr-data.csv were all labeled as “DeveloperWontFix”.
 ---
 ### Points
